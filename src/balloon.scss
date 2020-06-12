@@ -36,7 +36,7 @@ button[aria-label] {
 
     // Fixing iOS Safari event issue.
     // More info at: https://goo.gl/w8JF4W
-    cursor: pointer;
+    cursor: help;
 
     &:after {
       @include base-effects();
